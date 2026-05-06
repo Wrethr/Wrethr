@@ -13,3 +13,4 @@
 ![Visits](https://komarev.com/ghpvc/?username=Wrethr&label=Visits&color=900A00)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wrethr&layout=pie)
+эндокринолог это кто
