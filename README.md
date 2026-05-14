@@ -1,5 +1,5 @@
 # My tg = @Wrethrrr - писать на свой страх и риск, надеясь что я не отвечу
-# My steam acc = /id/Wrethren/. Ja, eð ir steam mett.
+# My steam acc = /id/Wrethren/. Ja, eð ir steameð mett.
 # невропатолог это кто
 ![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
